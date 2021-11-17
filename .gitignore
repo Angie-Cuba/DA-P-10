@@ -1,0 +1,60 @@
+.metadatos
+bin /
+tmp /
+* .tmp
+* .bak
+* .swp
+* ~ .nib
+propiedades.locales
+.settings /
+.loadpath
+.recommenders
+
+# Constructores de herramientas externos
+.externalToolBuilders /
+
+# "Configuraciones de lanzamiento de Eclipse" almacenadas localmente
+* .launch
+
+# Específico de PyDev (Python IDE para Eclipse)
+* .pydevproject
+
+# Específico de CDT (herramientas de desarrollo C / C ++)
+.cproyecto
+
+# CDT- autotools
+.autotools
+
+# Procesador de anotaciones Java (APT)
+.factorypath
+
+# Específico de PDT (herramientas de desarrollo PHP)
+.Construir camino
+
+# complemento sbteclipse
+.objetivo
+
+# Complemento Tern
+.tern-proyecto
+
+# Complemento TeXlipse
+.texlipse
+
+# STS (conjunto de herramientas Spring)
+.springBeans
+
+# Recomendados de código
+.recommenders /
+
+# Procesamiento de anotaciones
+.apt_generated /
+.apt_generated_test /
+
+# Scala IDE específico (desarrollo de Scala y Java para Eclipse)
+.cache-main
+.scala_dependencies
+.hoja de cálculo
+
+# Descomente esta línea si desea ignorar el archivo de descripción del proyecto.
+# Normalmente, este archivo se rastreará si contiene configuraciones de compilación / dependencia:
+# .proyecto
